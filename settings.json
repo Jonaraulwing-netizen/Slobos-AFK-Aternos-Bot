@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": og_sniper1.aternos.me,
+    "ip": og_sniper1.aternos.me
     "port": 46430,
     "version": "",
     "try-creative": false
